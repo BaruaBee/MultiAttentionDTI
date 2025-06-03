@@ -1,1 +1,5 @@
 # MultiAttentionDTI
+
+Run python preprocess_transductive_setting.py/preprocess_drug_inductive_setting.py/preprocess_drug_protein_inductive_setting.py first
+
+Then run python main_transductive_setting.py/main_drug_inductive_setting.py/main_drug_protein_inductive_setting.py
